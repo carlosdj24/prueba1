@@ -6,4 +6,4 @@ vamos a describir las funciones que tiene un administrador de sistemas.
 3. ¿que es un devops?
 ## Referencias
 
-##licencias
+## licencias
